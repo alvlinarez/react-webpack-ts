@@ -1,0 +1,7 @@
+Dependecies:
+
+npm i -E -S react react-dom
+
+devDependencies: 
+
+npm i -E -D @babel/core @babel/plugin-proposal-class-properties @babel/plugin-syntax-dynamic-import @babel/plugin-transform-react-constant-elements @babel/plugin-transform-react-inline-elements @babel/plugin-transform-runtime @babel/preset-env @babel/preset-react @babel/runtime @svgr/webpack babel-loader babel-plugin-styled-components babel-plugin-transform-react-remove-prop-types css-loader file-loader html-webpack-plugin mini-css-extract-plugin optimize-css-assets-webpack-plugin style-loader terser-webpack-plugin url-loader webpack webpack-cli webpack-dev-server 
